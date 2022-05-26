@@ -16,7 +16,7 @@
 body.bg-color
 {
     position: relative;
-    background-color:rgb(218, 244, 252);
+    background-color:rgb(157, 209, 224);
     display: flex;
     justify-content: space-around;
     padding: 5%;
