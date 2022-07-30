@@ -70,9 +70,6 @@ p{
 }
 
 }
-
-@media(min-width:1440px) 
-{
 body.bg-color
 {
     position: relative;
@@ -129,5 +126,4 @@ p{
     color: grey;
     margin-left: 2%;
     margin-top: 5%;
-}
 }
